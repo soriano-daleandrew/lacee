@@ -1,0 +1,17 @@
+cart 
+- check if stock not enough only if time can  handle
+
+product
+- check if stock not enough only if time can  handle
+
+profile 
+- user edit profile only if time can handle
+
+checkout
+- temporary log out solution
+
+maybe a function that auto updates the order state of the product for a period of time?
+
+ecom_db.sql is not set on default content
+
+Plus.svg is not used
